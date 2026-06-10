@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Coffee</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Wed, 10 Jun 2026 17:55:27 +0530</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="http://127.0.0.1:8000/Coffee-1.2.zip" length="5033811" type="application/octet-stream" sparkle:edSignature="ofBK8jmI7w2U/eF1D1bp99pnAihrRZpbM3gQXJyELIc0mmexvwfv/ApHIVpPPkf66wJwo644NkvbcuWwFi03Aw=="/>
+        </item>
+    </channel>
+</rss>
