@@ -74,7 +74,7 @@ cat > "${CONTENTS_DIR}/Info.plist" << EOF
     <key>CFBundleIconFile</key>
     <string>Coffee</string>
     <key>SUFeedURL</key>
-    <string>https://whykush1.github.io/coffee/appcast.xml</string>
+    <string>https://whykush1.github.io/coffee/app/appcast/appcast.xml</string>
     <key>SUPublicEDKey</key>
     <string>aIvyx+0/GNhurGtEX6oHwmZQ0Ti6StFBAM3QaeZJFtU=</string>
     <key>SUEnableAutomaticChecks</key>
